@@ -103,9 +103,10 @@
   version "2.53.42"
   resolved "https://registry.yarnpkg.com/@types/selenium-webdriver/-/selenium-webdriver-2.53.42.tgz#74cb77fb6052edaff2a8984ddafd88d419f25cac"
 
-"@webcomponents/custom-elements@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@webcomponents/custom-elements/-/custom-elements-1.0.0.tgz#b1726e12074b556aa31b93f36ff6a03a435259c4"
+"@webcomponents/custom-elements@^1.0.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@webcomponents/custom-elements/-/custom-elements-1.6.0.tgz#5ecde1c332464ff00612f51874484b78395d504d"
+  integrity sha512-CqTpxOlUCPWRNUPZDxT5v2NnHXA4oox612iUGnmTUGQFhZ1Gkj8kirtl/2wcF6MqX7+PqqicZzOCBKKfIn0dww==
 
 abab@^1.0.0:
   version "1.0.3"
@@ -190,9 +191,10 @@ amdefine@>=0.0.4:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
 
-angular@1.5.x:
-  version "1.5.11"
-  resolved "https://registry.yarnpkg.com/angular/-/angular-1.5.11.tgz#8c5ba7386f15965c9acf3429f6881553aada30d6"
+angular@1.8.3:
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.3.tgz#851ad75d5163c105a7e329555ef70c90aa706894"
+  integrity sha512-5qjkWIQQVsHj4Sb5TcEs4WZWpFeVFHXwxEBHUhrny41D8UrBAd6T/6nPPAsLngJCReIOqi95W3mxdveveutpZw==
 
 ansi-regex@^0.2.0, ansi-regex@^0.2.1:
   version "0.2.1"
